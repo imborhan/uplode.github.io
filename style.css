@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background: ;
+}
+
+.form_value {
+    position: relative;
+    width: 500px;
+    height: 600px;
+    background: rgb(224, 189, 124);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form_value h2 {
+    font-size: 3rem;
+    padding-bottom: 50px;
+}
+
+
+
+.inputbox input {
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    
+}
+
+.inputbox p {
+    padding-left: 200px;
+    margin-top: px;
+    text-align: right;
+    
+}
+
+
+.inputbox label {
+    font-size: 1.2rem;
+}
+
+.table ul li {
+    color: green;
+}
+.table ul li span {
+    color: black;
+}
+.forget {
+    margin: -15px 0 15px;
+    font-size: em;
+    color: white;
+    display: flex;
+
+}
+
+.sign {
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.sign button {
+    width: 50%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1rem;
+    background: green;
+    text-align: center;
+}
+
+.speach {
+    font-size: 1rem;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.forget label input {
+    width: 15px;
+    height: 15px;
+    color: green;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.forget label input span{
+    margin-left: 5px;
+    color: rgb(94, 54, 6);
+}
+ 
+.table {
+    padding-top: 20px;
+    margin-left: 20px;
+
+}
